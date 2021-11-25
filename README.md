@@ -6,6 +6,10 @@
   
   ![alt-text](./images/terminal.png "Terminal snapshot")
   
+  ##Demo
+  [README_vid.mp4 3.zip](https://github.com/Dlelias/README-Generator/files/7605353/README_vid.mp4.3.zip)
+
+  
 
   ## Table of Contents:
 - [Description](#description)
