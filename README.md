@@ -10,6 +10,7 @@
   
   ##Demo
   [README_vid.mp4 3.zip](https://github.com/Dlelias/README-Generator/files/7605353/README_vid.mp4.3.zip)
+  ![DEMO](./screenrecording/DEMO.gif)
 
   
 
@@ -27,6 +28,7 @@ This project required npm install
 
 ## Usage
 The README generator uses node index for the questions and writes the answers onto a the README file  💾
+
 
 ## License 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
