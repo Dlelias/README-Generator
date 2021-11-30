@@ -8,7 +8,7 @@
   
   ![alt-text](./images/terminal.png "Terminal snapshot")
   
- ![DEMO] https://github.com/Dlelias/README-Generator/blob/main/Develop/screenrecording/DEMO.gif)
+ ![DEMO](https://github.com/Dlelias/README-Generator/blob/main/Develop/screenrecording/DEMO.gif)
 
   
 
