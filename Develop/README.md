@@ -1,4 +1,4 @@
-![alt-text](./screenshots/main-page.JPG "main")
+![terminal.png](./screenshots/main-page.JPG "main")
   README generator 👨‍💻
 
   ## Description 
@@ -19,7 +19,7 @@ installed npm inquirer
 ## Usage
 Once inquirer is installed . The user can pull up the questions in the terminal. Once the user finishes answering all the questions, the answers will be prompted to a readme file. This makes it quick and easy for anyone to generate a readme for their projects 💾
 
-![README Generator Demo](./screenrecording/README-GEN-DEMO.gif)
+![DEMO](./screenrecording/DEMO.gif)
 
 ## License 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
