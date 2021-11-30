@@ -19,7 +19,7 @@ installed npm inquirer
 ## Usage
 Once inquirer is installed . The user can pull up the questions in the terminal. Once the user finishes answering all the questions, the answers will be prompted to a readme file. This makes it quick and easy for anyone to generate a readme for their projects 💾
 
-![DEMO](./screenrecording/DEMO.gif)
+![DEMO](./Develop/screenrecording/DEMO.gif)
 
 ## License 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
